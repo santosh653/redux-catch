@@ -4,5 +4,5 @@ arch:
  {
   "sudo": false,
   "language": "node_js",
-  "node_js": 11
+  "node_js": node
 }
